@@ -14,12 +14,12 @@
 - MongoDB query language
 
 ### Passions
-I love the gym 🏋🏾
-I love Basketball (Go Bulls) 🏀🐂🔴
+- I love the gym 🏋🏾 
+- I love Basketball (Go Bulls) 🏀🐂🔴
 
 ### Contact 
-Feel free to [email me](carter.r.xavier@gmail.com) | 
-Contact me on[LinkedIn](https://www.linkedin.com/in/xavier-carter-7b5b49165/)
+- Feel free to email me at carter.r.xavier@gmail.com 
+- Contact me on [LinkedIn](https://www.linkedin.com/in/xavier-carter-7b5b49165/)
 
 
 
