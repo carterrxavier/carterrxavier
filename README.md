@@ -22,7 +22,7 @@
 - Contact me on [LinkedIn](https://www.linkedin.com/in/xavier-carter-7b5b49165/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carterrxavier&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carterrxavier&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carterrxavier&theme=green_nur&hide_border=true)](https://git.io/streak-stats)
 
 
 ###
