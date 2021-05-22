@@ -7,11 +7,11 @@
 #### AA in Computer Programming and Web Design from Clover Park Technical College ☑️
 
 ### Languages 
-- python 
-- C#
-- Java
-- SQL
-- MongoDB query language
+![python](https://img.shields.io/badge/Language-Python-yellow)
+![C#](https://img.shields.io/badge/Language-CSharp-purple)
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![SQL](https://img.shields.io/badge/Language-SQL-red)
+![MongoDB](https://img.shields.io/badge/Language-MongoDB-green) 
 
 ### Passions
 - I love the gym 🏋🏾 
