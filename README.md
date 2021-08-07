@@ -2,9 +2,9 @@
 
 
 ### About Me 😃
-#### Currently Enrolled as a Data Science Student at codeUp📊📈
-#### Currently persuing my BS in Software Engineering at Arizona State University 📚
-#### AA in Computer Programming and Web Design from Clover Park Technical College ☑️
+#### Currently Enrolled as a Data Science Student at codeup📊📈
+#### persuing my BS in Software Engineering at Arizona State University 📚
+#### AAS in Computer Programming and Web Design from Clover Park Technical College ☑️
 
 ### Languages 
 ![python](https://img.shields.io/badge/Language-Python-yellow)
