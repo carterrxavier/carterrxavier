@@ -1,7 +1,7 @@
-## Welcome 👋
 
 
-### About Me 😃
+## Hello, thanks for giving my GitHub a look. 
+### About me
 #### Currently Enrolled as a Data Science Student at codeup📊📈
 #### persuing my BS in Software Engineering at Arizona State University 📚
 #### AAS in Computer Programming and Web Design from Clover Park Technical College ☑️
