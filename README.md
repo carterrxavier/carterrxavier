@@ -2,7 +2,7 @@
 
 ## Hello, thanks for giving my GitHub a look. 
 ### About me
-#### -Data Science Alumni from  [codeup](https://codeup.edu/)📊📈
+#### -Data Science Alumni from  [codeup](https://alumni.codeup.com/candidate/xavier-carter/) 📊📈
 #### persuing my BS in Software Engineering at Arizona State University 📚
 #### AAS in Computer Programming and Web Design from Clover Park Technical College ☑️
 
